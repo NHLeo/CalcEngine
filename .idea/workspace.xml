@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CalcEngine:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59f57478-a5c7-4edb-a03b-fb836986bdc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XtXZRAOKMRabIsOwq41JaaGSPf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.se.ed.calcengine" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.se.ed.myapp.Main" />
+      <module name="CalcEngine" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59f57478-a5c7-4edb-a03b-fb836986bdc7" name="Default Changelist" comment="" />
+      <created>1581866419613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581866419613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="59" width="800" height="677" key="#Menus_and_Toolbars" timestamp="1581868537029">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="299" y="59" width="800" height="677" key="#Menus_and_Toolbars/43.27.1323.741@43.27.1323.741" timestamp="1581868537029" />
+    <state x="162" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582249674094">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="162" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.27.1323.741@43.27.1323.741" timestamp="1582249674094" />
+    <state x="512" y="109" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1582251767307">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="512" y="109" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/43.27.1323.741@43.27.1323.741" timestamp="1582251767307" />
+    <state x="436" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582249716149">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="436" y="183" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/43.27.1323.741@43.27.1323.741" timestamp="1582249716149" />
+    <state x="449" y="141" width="501" height="513" key="FileChooserDialogImpl" timestamp="1582249350809">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="449" y="141" width="501" height="513" key="FileChooserDialogImpl/43.27.1323.741@43.27.1323.741" timestamp="1582249350809" />
+    <state width="1257" height="276" key="GridCell.Tab.0.bottom" timestamp="1582255601185">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="276" key="GridCell.Tab.0.bottom/43.27.1323.741@43.27.1323.741" timestamp="1582255601185" />
+    <state width="1257" height="276" key="GridCell.Tab.0.center" timestamp="1582255601184">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="276" key="GridCell.Tab.0.center/43.27.1323.741@43.27.1323.741" timestamp="1582255601184" />
+    <state width="1257" height="276" key="GridCell.Tab.0.left" timestamp="1582255601183">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="276" key="GridCell.Tab.0.left/43.27.1323.741@43.27.1323.741" timestamp="1582255601183" />
+    <state width="1257" height="276" key="GridCell.Tab.0.right" timestamp="1582255601184">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="276" key="GridCell.Tab.0.right/43.27.1323.741@43.27.1323.741" timestamp="1582255601184" />
+    <state width="1257" height="192" key="GridCell.Tab.1.bottom" timestamp="1582164007249">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="192" key="GridCell.Tab.1.bottom/43.27.1323.741@43.27.1323.741" timestamp="1582164007249" />
+    <state width="1257" height="192" key="GridCell.Tab.1.center" timestamp="1582164007248">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="192" key="GridCell.Tab.1.center/43.27.1323.741@43.27.1323.741" timestamp="1582164007248" />
+    <state width="1257" height="192" key="GridCell.Tab.1.left" timestamp="1582164007247">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="192" key="GridCell.Tab.1.left/43.27.1323.741@43.27.1323.741" timestamp="1582164007247" />
+    <state width="1257" height="192" key="GridCell.Tab.1.right" timestamp="1582164007248">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="1257" height="192" key="GridCell.Tab.1.right/43.27.1323.741@43.27.1323.741" timestamp="1582164007248" />
+    <state x="193" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1582249913504">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="193" y="27" width="1024" height="741" key="SettingsEditor/43.27.1323.741@43.27.1323.741" timestamp="1582249913504" />
+    <state width="651" height="350" key="XDebugger.FullValuePopup" timestamp="1582082465869">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state width="651" height="350" key="XDebugger.FullValuePopup/43.27.1323.741@43.27.1323.741" timestamp="1582082465869" />
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582248871166">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="360" y="225" key="com.intellij.ide.util.TipDialog/43.27.1323.741@43.27.1323.741" timestamp="1582248871166" />
+    <state x="367" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582081424453">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="367" y="89" width="672" height="678" key="search.everywhere.popup/43.27.1323.741@43.27.1323.741" timestamp="1582081424453" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/se/ed/calcengine/CalculateHelper.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/se/ed/myapp/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
